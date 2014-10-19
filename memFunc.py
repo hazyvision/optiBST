@@ -1,5 +1,10 @@
+#!/usr/bin/python
 
-def memoryFunc(a,i,j):
+# a memory function, using recurrence relation, that avoids 
+# explicitly computing the function more than once. Can be used 
+# to optimize BinarySearchTree.
+
+def memoryFunc(a,i,j)
 	if a[i][j] is None: 
 		memoryFunc(a,i,j) #produce result
 		a[i][j] = result
