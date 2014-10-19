@@ -1,0 +1,9 @@
+
+arr = []
+memoryFunc(arr,0)
+
+def memoryFunc(a,i):
+    a[i] = "hello from memory function"
+    a[i +1 ] = 6969420
+    print(a[i] + " " + a[i + 1])
+    
