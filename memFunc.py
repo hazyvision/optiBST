@@ -2,7 +2,7 @@
 
 # a memory function, using recurrence relation, that avoids 
 # explicitly computing the function more than once. Can be used 
-# to optimize BinarySearchTree.
+# for optimization problems.
 
 def memoryFunc(a,i,j)
 	if a[i][j] is None: 
