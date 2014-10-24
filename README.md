@@ -1,5 +1,5 @@
 optiBST
 =======
 
-Optimized Binary Search Tree w/ a MemoryFunction
+Dynamic Programming mixed with the optimality
 
