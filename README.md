@@ -1,5 +1,5 @@
 optiBST
 =======
 
-Dynamic Programming mixed with the optimality
+Dynamic Programming mixed with optimality
 
