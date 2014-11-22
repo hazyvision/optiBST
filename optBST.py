@@ -1,5 +1,8 @@
 #Written by Adriene Cuenco
+<<<<<<< HEAD
 #CS331 Fall2014 Due: 10/24/14 + 24 hours ext.
+=======
+>>>>>>> fff1a14891ccd093969e40f753512c38843c923b
 
 #!/usr/bin/python
 #Python Version: 3.3.5
