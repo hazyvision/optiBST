@@ -1,7 +1,7 @@
 optiBST
 =======
 
-Dynamic Programming with optimality
+Dynamic Programing with optimality
 
 Python Version: 3.3.5
 
